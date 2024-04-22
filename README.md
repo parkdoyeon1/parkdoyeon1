@@ -1,3 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkdoyeon1&show_icons=true&theme=radical)
-
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{parkdoyeon1}" width="1000" height="300"/>
+</a>
